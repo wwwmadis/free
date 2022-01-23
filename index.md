@@ -16,7 +16,9 @@
 </html>
 ```
 
-**Why are link tags marked with `<a>` elements?**
-`<a>` defines the *anchor* element. 
+**Why are link tags marked with `<a>` elements?**<br>
+Because `<a>` defines the *anchor* element. 
+
+
 
 **Href** is an essential *attribute* that specifies the URL/location of the page the link goes to.
