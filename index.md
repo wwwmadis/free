@@ -1,4 +1,4 @@
-## Code Snippets
+## Code Snippets [DRAFT]
 
 ### HTML example
 
